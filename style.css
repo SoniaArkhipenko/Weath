@@ -37,16 +37,16 @@ left: 35.44px;
 
 .gorod{
 position: absolute;
-background-image: url(/pic/map\ \(1\).png);
+background-image: url(./pic/map\ \(1\).png);
 background-size: 18px 18px;
-height: 18px;
+height: 18x;
 width: 18px;
 top: 17.36px;
 left: 15.67px;
 }
  .notif{
 position: absolute;
-background-image: url(/pic/Group\ 652\ \(1\).png);
+background-image: url(./pic/Group\ 652\ \(1\).png);
 top: 17.36px;
 left: 250.5px;
 background-size: 18px;
@@ -160,7 +160,7 @@ text-shadow: -1.39839px 2.09758px 0.699193px rgba(0, 0, 0, 0.1);
 }
 .windpic{
 position: absolute;
-background-image: url(/pic/windy.png);
+background-image: url(./pic/windy.png);
 background-size: 18px;
 height: 18px;
 width:18px;
@@ -170,7 +170,7 @@ left: 50.7px;
 
 .humpic{
     position: absolute;
-    background-image: url(/pic/hum.png);
+    background-image: url(./pic/hum.png);
     background-size: 18px;
     height: 18px;
     width:18px;
